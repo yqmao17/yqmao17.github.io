@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
+title: About Me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Yuqi (Winston) Mao. Some fun facts about me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I love traveling and taking photos. I have been to 60+ cities around the world.
+- My family has a Golden Retriever and his name is "Huzi".
+- I come from Wuhan, China
+- I am a fan of science fiction movies and TV series.
 
-What else do you need?
+### Academia
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Life
