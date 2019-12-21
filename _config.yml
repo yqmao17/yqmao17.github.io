@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title:  Yuqi Mao
+title: Yuqi Mao
 
 # Short description of your site
 description: Personal website for Yuqi Mao
@@ -21,8 +21,8 @@ description: Personal website for Yuqi Mao
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
-  Activities: "activities"
+#   Projects: "projects"
+#   Activities: "activities"
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -54,8 +54,8 @@ footer-link-col: "#404040"
 # instead of colour
 
  navbar-img: "/img/bgimage.jpeg"
- footer-img: "/img/bgimage.jpeg"
- page-img: "/img/bgimage.jpeg"
+#  footer-img: "/img/bgimage.jpeg"
+#  page-img: "/img/bgimage.jpeg"
 
 # --- Footer options --- #
 
