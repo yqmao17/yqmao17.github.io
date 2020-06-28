@@ -12,19 +12,14 @@ My name is Yuqi (Winston) Mao. Some fun facts about me:
 - I am a fan of science fiction movies and TV series.
 
 ## Academia
+
 ### Courses
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
 | Course Name   |  |  |
-|--------- | ------------------- | --------- |
- Applied Machine Learning | Data Science & Engineering | Data Structures & Algorithms  |
-|Computer System & Programming      | Probability | Digital System Laboratory|
-|Digital Signal Processing | Analog Signal Processing | Linear Algebra|
+| ---------------------------- | -------------------------- | ---------------------------- | 
+|Applied Machine Learning      | Data Science & Engineering | Data Structures & Algorithms |
+|Computer System & Programming | Probability                | Digital System Laboratory    |
+|Digital Signal Processing     | Analog Signal Processing   | Linear Algebra               |
 
 
 ## Life
