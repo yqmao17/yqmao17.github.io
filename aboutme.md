@@ -13,11 +13,11 @@ My name is Yuqi (Winston) Mao. Some fun facts about me:
 
 ## Academia
 ### Courses
-&nbsp; | &nbsp; | &nbsp;
- --------- | ------------------- | --------- 
- Applied Machine Learning | Data Science & Engineering | Data Structures & Algorithms  
- Computer System & Programming      | Probability | Digital System Laboratory
- Digital Signal Processing | Analog Signal Processing | Linear Algebra
+ | &nbsp; | &nbsp; | &nbsp;|
+ |--------- | ------------------- | --------- |
+ |Applied Machine Learning | Data Science & Engineering | Data Structures & Algorithms  |
+ |Computer System & Programming      | Probability | Digital System Laboratory|
+ |Digital Signal Processing | Analog Signal Processing | Linear Algebra|
 
 
 ## Life
