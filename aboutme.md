@@ -21,11 +21,9 @@ My name is Yuqi (Winston) Mao. Some fun facts about me:
 |Digital Signal Processing     | Analog Signal Processing   | Linear Algebra               |
 
 ### Research
-Research Intern at National Center for Supercomputing Applications (NCSA)
+#### Research Intern at National Center for Supercomputing Applications (NCSA)
 - Implement ML/DL algorithms on reconfigurable hardware with the objective to speedup the execution and reduce power requirements.
 - Currently, I am working on quantization of neural networks.
 - Related skills & knowledge: Deep Learning, PyTorch, Parallel Computing, OpenCL, FPGA with High-Level Synthesis
-
-
 
 ## Life
