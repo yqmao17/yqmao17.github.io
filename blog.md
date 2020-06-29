@@ -11,5 +11,5 @@ subtitle: Traveling and Photos
          height="250"
          width="250"
          alt="Elephant at sunset">
-    <figcaption>Me</figcaption>
+    <caption align="bottom">caption text</caption>
 </figure>
