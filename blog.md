@@ -5,6 +5,4 @@ subtitle: Traveling and Photos
 ---
 
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](img\me.jpeg "title-1")  |  ![](img\me.jpeg "title-2")
+![alt-text-1](img/me.jpeg "title-1")  ![alt-text-2](img/me.jpeg "title-2")
