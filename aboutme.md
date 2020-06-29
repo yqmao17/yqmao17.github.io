@@ -27,8 +27,7 @@ My name is Yuqi (Winston) Mao. Some fun facts about me:
 - Related skills & knowledge: Deep Learning, PyTorch, Parallel Computing, OpenCL, FPGA with High-Level Synthesis
 
 #### Skills
-Programming: C/C++, Python, SystemVerilog
-Software & Tools: Anaconda, Git, Terminal and Command Prompt, QuartusPrime, ModelSim, LaTex 
-Languages: Mandarin Chinese, English
+- Programming: C/C++, Python, SystemVerilog
+- Software & Tools: Anaconda, Git, Terminal and Command Prompt, QuartusPrime, ModelSim, LaTex 
+- Languages: Mandarin Chinese, English
 
-## Life

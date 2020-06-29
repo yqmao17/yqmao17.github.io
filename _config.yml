@@ -22,7 +22,7 @@ description: Personal website for Yuqi Mao
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-  Blog: "blog"
+  Life: "blog"
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
