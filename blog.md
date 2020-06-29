@@ -3,7 +3,7 @@ layout: page
 title: Life
 subtitle: Traveling and Photos
 ---
-
+<!-- 
 {% include image.html url="/img/me.jpeg" description="Me" %}
 
 <figure>
@@ -11,5 +11,5 @@ subtitle: Traveling and Photos
          height="250"
          width="250"
          alt="Elephant at sunset">
-    <caption align="bottom">caption text</caption>
-</figure>
+    <figcaption>Me</figcaption>
+</figure> -->
