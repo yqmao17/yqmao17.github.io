@@ -26,7 +26,7 @@ My name is Yuqi (Winston) Mao. Some fun facts about me:
 - Currently, I am working on quantization of neural networks.
 - Related skills & knowledge: Deep Learning, PyTorch, Parallel Computing, OpenCL, FPGA with High-Level Synthesis
 
-#### Skills
+### Skills
 - Programming: C/C++, Python, SystemVerilog
 - Software & Tools: Anaconda, Git, Terminal and Command Prompt, QuartusPrime, ModelSim, LaTex 
 - Languages: Mandarin Chinese, English
