@@ -28,12 +28,12 @@ My name is Yuqi (Winston) Mao. Some facts about me:
 |Digital Signal Processing     | Analog Signal Processing   | Linear Algebra               |
 
 ### Research
-#### Research Intern at [National Center for Supercomputing Applications (NCSA)](ncsa.illinois.edu)
+#### Research Intern at [National Center for Supercomputing Applications (NCSA)](http://ncsa.illinois.edu)
 - Implement ML/DL algorithms on reconfigurable hardware with the objective to speedup the execution and reduce power requirements.
 - Currently, I am working on quantization of neural networks.
 - Related skills & knowledge: Deep Learning, PyTorch, Parallel Computing, OpenCL, FPGA with High-Level Synthesis
 
-#### Autonomous Vehicles Research at [ECE@ILLINOIS](ece.illinois.edu)
+#### Autonomous Vehicles Research at [ECE@ILLINOIS](http://ece.illinois.edu)
 - General topic: The interaction between pedestrians and autonomous vehicles.
 - One year undergraduate research experience, and leads to a Senior Thesis
 - Start in August 2020.
