@@ -16,10 +16,12 @@ subtitle: Traveling and Photos
 
 ->Seattle<-
 
-<img align="left" width="350" height="350" src="/img/s1.jpeg">
+<img align="left" width="365" height="273" src="/img/s1.jpeg">
 
-<img align="right" width="350" height="350" src="/img/s2.jpeg">
+<img align="right" width="365" height="273" src="/img/s2.jpeg">
 
-<img align="left" width="350" height="350" src="/img/s3.jpeg">
+<br/>
 
-<img align="right" width="350" height="350" src="/img/s4.jpeg">
+<img align="left" width="365" height="273" src="/img/s3.jpeg">
+
+<img align="right" width="365" height="273" src="/img/s4.jpeg">
