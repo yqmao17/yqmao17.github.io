@@ -16,7 +16,4 @@ subtitle: Traveling and Photos
 
 <img align="left" width="250" height="250" src="/img/me.jpeg">
 
-This is the code you need to align images to the left:
-```
-<img align="left" width="100" height="100"
-```
+<img align="right" width="250" height="250" src="/img/me.jpeg">ß
