@@ -20,7 +20,7 @@ subtitle: Traveling and Photos
 
 <img align="right" width="365" height="273" src="/img/s2.jpeg">
 
-<br/>
+<br>
 
 <img align="left" width="365" height="273" src="/img/s3.jpeg">
 
