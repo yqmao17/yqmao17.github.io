@@ -14,7 +14,7 @@ subtitle: Traveling and Photos
     <figcaption>Me</figcaption>
 </figure> -->
 
-->Seattle<-
+### Seattle
 
 <img align="left" width="365" height="273" src="/img/s1.jpeg">
 
