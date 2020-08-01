@@ -14,6 +14,12 @@ subtitle: Traveling and Photos
     <figcaption>Me</figcaption>
 </figure> -->
 
-<img align="left" width="250" height="250" src="/img/me.jpeg">
+->Seattle<-
 
-<img align="right" width="250" height="250" src="/img/me.jpeg">ß
+<img align="left" width="350" height="350" src="/img/s1.jpeg">
+
+<img align="right" width="350" height="350" src="/img/s2.jpeg">
+
+<img align="left" width="350" height="350" src="/img/s3.jpeg">
+
+<img align="right" width="350" height="350" src="/img/s4.jpeg">
